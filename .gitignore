@@ -1,0 +1,7 @@
+# Dataset is scraped from a third-party site - check permission before publishing it
+dataset.csv
+all_words.txt
+data/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
